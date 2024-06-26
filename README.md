@@ -27,10 +27,10 @@ This application was built using React Native and includes the following feature
 3. **Custom Components and Styling**: Each screen is styled to match the provided UI mockup, with custom components used throughout the application.
 
 ## Screenshots
-![dark theme1](RNAssignment5/ss1.jpeg)
-![dark theme2](RNAssignment5/ss2.jpeg)
-![light theme1](RNAssignment5/ss3.jpeg)
-![light theme2](RNAssignment5/ss4.jpeg)
+![dark theme1](ss1.jpeg)
+![dark theme2](ss2.jpeg)
+![light theme1](ss3.jpeg)
+![light theme2](ss4.jpeg)
 
 ## Setup and Installation
 To set up and run this project locally, follow these steps:
